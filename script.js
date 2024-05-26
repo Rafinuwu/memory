@@ -1,16 +1,16 @@
 const albums = [
-    { month: 'January', image: 'path/to/image1.jpg', song: 'path/to/song1.mp3' },
-    { month: 'February', image: 'path/to/image2.jpg', song: 'path/to/song2.mp3' },
-    { month: 'March', image: 'path/to/image3.jpg', song: 'path/to/song3.mp3' },
-    { month: 'April', image: 'path/to/image4.jpg', song: 'path/to/song4.mp3' },
-    { month: 'May', image: 'path/to/image5.jpg', song: 'path/to/song5.mp3' },
-    { month: 'June', image: 'path/to/image6.jpg', song: 'path/to/song6.mp3' },
-    { month: 'July', image: 'path/to/image7.jpg', song: 'path/to/song7.mp3' },
-    { month: 'August', image: 'path/to/image8.jpg', song: 'path/to/song8.mp3' },
-    { month: 'September', image: 'path/to/image9.jpg', song: 'path/to/song9.mp3' },
-    { month: 'October', image: 'path/to/image10.jpg', song: 'path/to/song10.mp3' },
-    { month: 'November', image: 'path/to/image11.jpg', song: 'path/to/song11.mp3' },
-    { month: 'December', image: 'path/to/image12.jpg', song: 'path/to/song12.mp3' }
+    { month: 'January', image: 'memory-album/images/image1.jpg', song: 'memory-album/songs/song1.mp3' },
+    { month: 'February', image: 'memory-album/images/image2.jpg', song: 'memory-album/songs/song2.mp3' },
+    { month: 'March', image: 'memory-album/images/image3.jpg', song: 'memory-album/songs/song3.mp3' },
+    { month: 'April', image: 'memory-album/images/image4.jpg', song: 'memory-album/songs/song4.mp3' },
+    { month: 'May', image: 'memory-album/images/image5.jpg', song: 'memory-album/songs/song5.mp3' },
+    { month: 'June', image: 'memory-album/images/image6.jpg', song: 'memory-album/songs/song6.mp3' },
+    { month: 'July', image: 'memory-album/images/image7.jpg', song: 'memory-album/songs/song7.mp3' },
+    { month: 'August', image: 'memory-album/images/image8.jpg', song: 'memory-album/songs/song8.mp3' },
+    { month: 'September', image: 'memory-album/images/image9.jpg', song: 'memory-album/songs/song9.mp3' },
+    { month: 'October', image: 'memory-album/images/image10.jpg', song: 'memory-album/songs/song10.mp3' },
+    { month: 'November', image: 'memory-album/images/image11.jpg', song: 'memory-album/songs/song11.mp3' },
+    { month: 'December', image: 'memory-album/images/image12.jpg', song: 'memory-album/songs/song12.mp3' }
 ];
 
 const albumContainer = document.getElementById('albums');
